@@ -114,6 +114,7 @@
   - [yojimbo](https://github.com/mas-bandwidth/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers (C++).
 - C#
   - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - Backend framework with auth, profile, lobby, chat features for Unity.
+  - [coherence](https://coherence.io) - Unity networking and hosting solution that makes it easy and fun to create multiplayer games.
   - [DarkRift 2](https://github.com/DarkRiftNetworking/DarkRift) - Unity focused high-performance multi-threaded multiplayer networking solution.
   - [FishNet](https://github.com/FirstGearGames/FishNet) - Unity networking solution aimed towards reliability, ease of use, efficiency, and flexibility.
   - [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) - Unity focused real-time multiplayer networking solution.
