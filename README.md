@@ -9,6 +9,7 @@
 - [Choosing TCP or UDP: a guide for game developers](https://web.archive.org/web/20210415231950/https://heroiclabs.com/docs/expert-tcp-udp/) - Basic TCP vs UDP comparison by Heroic Labs.
 - [Close Look: Halo Infinite's Online Experience](https://www.halowaypoint.com/news/closer-look-halo-infinite-online-experience) - Discussing netcode issues and mitigations by Richard Watson.
 - [Delta Rollback: New optimizations for Rollback Netcode](https://medium.com/@david.dehaene/delta-rollback-new-optimizations-for-rollback-netcode-7d283d56e54b) - New ideas and optimizations by David Dehaene.
+- [Demolishing Wallhacks with Valorant's Fog of War](https://technology.riotgames.com/news/demolishing-wallhacks-valorants-fog-war) - Fighting with wallhacks in Valorant by Paul Chamberlain.
 - [Don't use Lockstep in RTS games](https://blog.istrolid.com/blog/dont-use-lockstep-in-rts-games.html) - Comparing Lockstep vs Client-Server Networking Models for RTS.
 - [Ethernet vs. WiFi](https://web.archive.org/web/20191231135556/https://na.leagueoflegends.com/en/page/ethernet-vs-wifi-ping-packets-playing-better) - Connection over WiFi vs Ethernet metrics comparison by Viscarious from Riot Games.
 - [Explaining Delay-based and Rollback Netcode](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/) - Rollback netcode for fighting games by Ricky Pusch.
@@ -36,7 +37,7 @@
 - [Quake 3 Network Model](http://fabiensanglard.net/quake3/network.php) - Fabien Sanglard's source code review about Quake 3's networking model.
 - [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/) - Sven Bergström's multiplayer game development on the web guide.
 - [Replication in Networked Games](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/) - Mikola Lysenko's replication articles for JavaScript-based multiplayer.
-- [Rollback Pseudo Code](https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9) - A high level pseudocode of peer-to-peer rollback netcode, especially for fighting games
+- [Rollback Pseudo Code](https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9) - A high level pseudocode of peer-to-peer rollback netcode.
 - [Rollback Networking in INVERSUS](http://blog.hypersect.com/rollback-networking-in-inversus/) - Ryan Juckett's post on a peer-to-peer rollback system in multiplayer.
 - [SnapNet Blog](https://www.snapnet.dev/blog/) - Netcode Architectures (lockstep, rollback, snapshot interpolation, Tribes') by Jay Mattis.
 - [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Valve's Source engine wiki including advanced game networking topics.
