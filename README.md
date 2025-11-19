@@ -22,6 +22,7 @@
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
 - [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) - A paper.
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) - Detailed network programming articles from IT Hare team.
+- [I wanna make a fighting game!](https://andrea-jens.medium.com/i-wanna-make-a-fighting-game-a-practical-guide-for-beginners-part-1-2021-update-955a4672eea5) - Series of articles explaining how to make your own fighting game, with special attention given to the requirements of peer-to-peer rollback netcode, like determinism.
 - [Kieran Newland's Blog](https://www.kierannewland.co.uk/blog/) - Various articles on Unreal Engine 5 multiplayer networking by Kieran Newland.
 - [Lag Compensation - Fair Play for all Pings](https://vercidium.com/blog/lag-compensation/) - An article explaining lag compensation by Mitchell Robinson.
 - [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) - NAT and P2P connectivity by Keith Johnston.
@@ -35,6 +36,7 @@
 - [Quake 3 Network Model](http://fabiensanglard.net/quake3/network.php) - Fabien Sanglard's source code review about Quake 3's networking model.
 - [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/) - Sven Bergström's multiplayer game development on the web guide.
 - [Replication in Networked Games](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/) - Mikola Lysenko's replication articles for JavaScript-based multiplayer.
+- [Rollback Pseudo Code](https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9) - A high level pseudocode of peer-to-peer rollback netcode, especially for fighting games
 - [Rollback Networking in INVERSUS](http://blog.hypersect.com/rollback-networking-in-inversus/) - Ryan Juckett's post on a peer-to-peer rollback system in multiplayer.
 - [SnapNet Blog](https://www.snapnet.dev/blog/) - Netcode Architectures (lockstep, rollback, snapshot interpolation, Tribes') by Jay Mattis.
 - [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Valve's Source engine wiki including advanced game networking topics.
@@ -130,10 +132,16 @@
   - [Normcore](https://normcore.io/) - Seamless multiplayer game networking for Unity (Cloud/SaaS).
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (Cloud/SaaS).
   - [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) - Lightweight C# networking solution for multiplayer games.
+  - [BestoNet](https://github.com/BestoGames/BestoNet) - GGPO-style rollback networking for fighting game in Unity/C#.
 - Go
   - [Agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
   - [Nakama](https://github.com/heroiclabs/nakama) - Open-source backend infrastructure for multiplayer games (also with Unity/C# SDK).
   - [GoWorld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping (and Unity demo!).
+- Godot
+  - [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/) - Godot addon implementing rollback and prediction netcode.
+  - [Rakugaki Rumble](https://github.com/AndreaJens/rakugaki-rumble) - Small fighting game using [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/).
+  - [Delta Rollback Netcode](https://gitlab.com/BimDav/delta-rollback) - C++ port of [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/) with performance optimizations.
+  - [Rollback Fighter Demo](https://github.com/blast-harbour/Godot-Rollback-Fighter-Demo) - Example fighting game using [Delta Rollback Netcode](https://gitlab.com/BimDav/delta-rollback).
 - Java
   - [SmartFoxServer](http://smartfoxserver.com/) - Massive multiplayer game server with advanced built-in features.
 - JavaScript
