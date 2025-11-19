@@ -88,6 +88,7 @@
 - Unreal Fest
   - [Europe 2019 / Replication Graph For Optimizing RTS Games](https://www.youtube.com/watch?v=VusAHXoHF3Y) - Talk by Nick Prühs from Deadalic.
   - [Bali 2025 / Best Practices for Networked Movement Abilities](https://www.youtube.com/watch?v=tSVcRbfK8X8) - Talk by Zhi Kang Shao.
+  - [Bali 2025 / Network Prediction: Replication's Crystal Ball](https://www.youtube.com/watch?v=S0r005tEmSA) - Talk by Andrew Joy.
   - [Orlando 2025 / Developing and Launching a New Replication System](https://www.youtube.com/watch?v=K472O2rVvG0) - Talk by Peter Engstrom.
 - Unity Unite
   - [EU 2016 / Building a PvP focused MMO](https://www.youtube.com/watch?v=x_4Y2-B-THo) - Albion MMO architecture by David Salz from Sandbox.
