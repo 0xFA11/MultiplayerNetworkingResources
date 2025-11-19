@@ -134,6 +134,7 @@
   - [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) - Lightweight C# networking solution for multiplayer games.
   - [BestoNet](https://github.com/BestoGames/BestoNet) - GGPO-style rollback networking for fighting game in Unity/C#.
 - Go
+  - [Agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
   - [Nakama](https://github.com/heroiclabs/nakama) - Open-source backend infrastructure for multiplayer games (also with Unity/C# SDK).
   - [GoWorld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping (and Unity demo!).
 - Godot
@@ -148,6 +149,8 @@
   - [Colyseus](https://github.com/colyseus/colyseus) - Authoritative multiplayer game server backend framework.
   - [Kalm](https://github.com/kalm/kalm.js) - Socket manager/optimizer library with custom congestion control for Node.js and browsers.
   - [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable multi-process HTTP & real-time server framework.
+- Rust
+  - [Quilkin](https://github.com/googleforgames/quilkin) - Non-transparent UDP proxy for dedicated game servers (also eBPF/XDP).
 
 ## Tools
 
