@@ -10,6 +10,7 @@
 - [Close Look: Halo Infinite's Online Experience](https://www.halowaypoint.com/news/closer-look-halo-infinite-online-experience) - Discussing netcode issues and mitigations by Richard Watson.
 - [Delta Rollback: New optimizations for Rollback Netcode](https://medium.com/@david.dehaene/delta-rollback-new-optimizations-for-rollback-netcode-7d283d56e54b) - New ideas and optimizations by David Dehaene.
 - [Demolishing Wallhacks with Valorant's Fog of War](https://technology.riotgames.com/news/demolishing-wallhacks-valorants-fog-war) - Fighting with wallhacks in Valorant by Paul Chamberlain.
+- [Determinism in League of Legends: Introduction](https://technology.riotgames.com/news/determinism-league-legends-introduction) - 4-part series on determinism in LoL by Rick Hoskinson.
 - [Don't use Lockstep in RTS games](https://blog.istrolid.com/blog/dont-use-lockstep-in-rts-games.html) - Comparing Lockstep vs Client-Server Networking Models for RTS.
 - [Ethernet vs. WiFi](https://web.archive.org/web/20191231135556/https://na.leagueoflegends.com/en/page/ethernet-vs-wifi-ping-packets-playing-better) - Connection over WiFi vs Ethernet metrics comparison by Viscarious from Riot Games.
 - [Explaining Delay-based and Rollback Netcode](https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/) - Rollback netcode for fighting games by Ricky Pusch.
