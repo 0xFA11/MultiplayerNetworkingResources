@@ -113,6 +113,8 @@
   - [GGPO](https://github.com/pond3r/ggpo) - Good Game, Peace Out Rollback Network SDK.
   - [KCP](https://github.com/skywind3000/kcp) - A fast and reliable ARQ protocol.
   - [netcode](https://github.com/mas-bandwidth/netcode) - Secure connection-based client/server protocol built on top of UDP (C, C#, Rust, Go etc...)
+  - [Network Next](https://github.com/networknext/next) - Network accelerator for multiplayer games.
+  - [Proton](https://https://github.com/networknext/proton) - Linux kernel module that provides cryptographic functions for XDP programs.
   - [RakNet](https://github.com/facebookarchive/RakNet) - (Inactive) Full-featured and mature reliable UDP networking engine.
   - [Reliable](https://github.com/mas-bandwidth/reliable) - A packet acknowledgement system for UDP (C).
   - [Serialize](https://github.com/mas-bandwidth/serialize) - A simple bitpacking serializer for C++.
