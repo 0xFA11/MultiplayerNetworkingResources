@@ -137,6 +137,7 @@
   - [Normcore](https://normcore.io/) - Seamless multiplayer game networking for Unity (Cloud/SaaS).
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (Cloud/SaaS).
   - [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) - Lightweight C# networking solution for multiplayer games.
+  - [TNet 3](https://assetstore.unity.com/packages/tools/network/networking-and-serialization-tools-tnet-3-56798) - Multiplayer networking and serialization tools for Unity (open-source).
   - [BestoNet](https://github.com/BestoGames/BestoNet) - GGPO-style rollback networking for fighting game in Unity/C#.
 - Go
   - [Agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
