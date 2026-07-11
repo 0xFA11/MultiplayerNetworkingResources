@@ -22,6 +22,7 @@
 - [Game Server Architecture](https://web.archive.org/web/20210419133753/https://gameserverarchitecture.com/) - Matthew Walker's multiplayer game server architecture blog.
 - [High Performance Browser Networking](https://hpbn.co/) - A free online book about modern web protocols by Ilya Grigorik.
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
+- [How 2XKO Handles Online Play](https://2xko.riotgames.com/en-us/news/dev/how-2xko-handles-online-play/) - In-depth explanation of the Riot made fighting game 2XKO's netcode, particularly why they chose to go for a client-server model over peer-to-peer.
 - [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) - A paper.
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) - Detailed network programming articles from IT Hare team.
 - [I wanna make a fighting game!](https://andrea-jens.medium.com/i-wanna-make-a-fighting-game-a-practical-guide-for-beginners-part-1-2021-update-955a4672eea5) - Series of articles explaining how to make your own fighting game, with special attention given to the requirements of peer-to-peer rollback netcode, like determinism.
