@@ -39,6 +39,7 @@
 - [Quake 3 Network Model](http://fabiensanglard.net/quake3/network.php) - Fabien Sanglard's source code review about Quake 3's networking model.
 - [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/) - Sven Bergström's multiplayer game development on the web guide.
 - [Replication in Networked Games](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/) - Mikola Lysenko's replication articles for JavaScript-based multiplayer.
+- [Rollback Network Code for Fighting Games](https://x.com/SebAaltonen/status/1687691543157829632) - An explanation thread by Sebastian Aaltonen.
 - [Rollback Pseudo Code](https://gist.github.com/rcmagic/f8d76bca32b5609e85ab156db38387e9) - A high level pseudocode of peer-to-peer rollback netcode.
 - [Rollback Networking in INVERSUS](http://blog.hypersect.com/rollback-networking-in-inversus/) - Ryan Juckett's post on a peer-to-peer rollback system in multiplayer.
 - [SnapNet Blog](https://www.snapnet.dev/blog/) - Netcode Architectures (lockstep, rollback, snapshot interpolation, Tribes') by Jay Mattis.
@@ -149,11 +150,10 @@
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (Cloud/SaaS).
   - [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) - Lightweight C# networking solution for multiplayer games.
   - [TNet 3](https://assetstore.unity.com/packages/tools/network/networking-and-serialization-tools-tnet-3-56798) - Multiplayer networking and serialization tools for Unity (open-source).
-  - [BestoNet](https://github.com/BestoGames/BestoNet) - GGPO-style rollback networking for fighting game in Unity/C#.
 - Go
   - [Agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
-  - [Nakama](https://github.com/heroiclabs/nakama) - Open-source backend infrastructure for multiplayer games (also with Unity/C# SDK).
   - [GoWorld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping (and Unity demo!).
+  - [Nakama](https://github.com/heroiclabs/nakama) - Open-source backend infrastructure for multiplayer games (also with Unity/C# SDK).
 - Godot
   - [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/) - Godot addon implementing rollback and prediction netcode.
   - [Rakugaki Rumble](https://github.com/AndreaJens/rakugaki-rumble) - Small fighting game using [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/).
@@ -173,9 +173,9 @@
 
 - [CapAnalysis](https://www.capanalysis.net/ca/) - Web visual tool to analyze captured network traffic. (Ubuntu, Debian)
 - [clumsy](https://jagt.github.io/clumsy/) - Network condition simulation utility. (Windows)
-- [netem](https://wiki.linuxfoundation.org/networking/netem) - Network emulation for testing protocols. (Linux)
 - [matchmaker](https://github.com/mas-bandwidth/matchmaker) - Matchmaking simulator with real worldwide player data (Go).
 - [mitmproxy](https://mitmproxy.org/) - Web debugging proxy server. (Windows, macOS, Linux)
+- [netem](https://wiki.linuxfoundation.org/networking/netem) - Network emulation for testing protocols. (Linux)
 - [Network Link Conditioner](https://nshipster.com/network-link-conditioner/) - Network environment simulation utility. (macOS, iOS)
 - [Network Simulator (ns)](https://www.nsnam.org) - Network simulator targeting research and educational use. (macOS, Linux)
 - [Postman](https://www.postman.com/) - Web API debugging and development client. (Windows, macOS, Linux)
