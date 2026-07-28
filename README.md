@@ -150,10 +150,11 @@
   - [Photon Engine](https://photonengine.com) - Hybrid multiplayer game networking platform (Cloud/SaaS).
   - [RiptideNetworking](https://github.com/tom-weiland/RiptideNetworking) - Lightweight C# networking solution for multiplayer games.
   - [TNet 3](https://assetstore.unity.com/packages/tools/network/networking-and-serialization-tools-tnet-3-56798) - Multiplayer networking and serialization tools for Unity (open-source).
+  - [BestoNet](https://github.com/BestoGames/BestoNet) - GGPO-style rollback networking for fighting game in Unity/C#.
 - Go
   - [Agones](https://github.com/googleforgames/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
-  - [GoWorld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping (and Unity demo!).
   - [Nakama](https://github.com/heroiclabs/nakama) - Open-source backend infrastructure for multiplayer games (also with Unity/C# SDK).
+  - [GoWorld](https://github.com/xiaonanln/goworld) - Scalable Distributed Game Server Engine with Hot Swapping (and Unity demo!).
 - Godot
   - [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/) - Godot addon implementing rollback and prediction netcode.
   - [Rakugaki Rumble](https://github.com/AndreaJens/rakugaki-rumble) - Small fighting game using [Snopek's Rollback Netcode](https://gitlab.com/snopek-games/godot-rollback-netcode/).
@@ -173,9 +174,9 @@
 
 - [CapAnalysis](https://www.capanalysis.net/ca/) - Web visual tool to analyze captured network traffic. (Ubuntu, Debian)
 - [clumsy](https://jagt.github.io/clumsy/) - Network condition simulation utility. (Windows)
+- [netem](https://wiki.linuxfoundation.org/networking/netem) - Network emulation for testing protocols. (Linux)
 - [matchmaker](https://github.com/mas-bandwidth/matchmaker) - Matchmaking simulator with real worldwide player data (Go).
 - [mitmproxy](https://mitmproxy.org/) - Web debugging proxy server. (Windows, macOS, Linux)
-- [netem](https://wiki.linuxfoundation.org/networking/netem) - Network emulation for testing protocols. (Linux)
 - [Network Link Conditioner](https://nshipster.com/network-link-conditioner/) - Network environment simulation utility. (macOS, iOS)
 - [Network Simulator (ns)](https://www.nsnam.org) - Network simulator targeting research and educational use. (macOS, Linux)
 - [Postman](https://www.postman.com/) - Web API debugging and development client. (Windows, macOS, Linux)
