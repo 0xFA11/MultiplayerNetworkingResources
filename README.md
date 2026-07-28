@@ -36,7 +36,6 @@
 - [Networking of a turn-based game](https://longwelwind.net/blog/networking-turn-based-game/) - Deterministic state synchronization netcode by Frédéric Kaczynski.
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) - A brief overview of low-level network protocols stack from Destroy All Software.
 - [Más Bandwidth](https://mas-bandwidth.com) - Glenn Fiedler's new blog on game network programming and scalable backend engineering.
-- [Peeking into Valorant's Netcode](https://technology.riotgames.com/news/peeking-valorants-netcode) - Netcode overview and peeker's advantage by Matt deWet and David Straily.
 - [Quake 3 Network Model](http://fabiensanglard.net/quake3/network.php) - Fabien Sanglard's source code review about Quake 3's networking model.
 - [Real Time Multiplayer in HTML5](http://buildnewgames.com/real-time-multiplayer/) - Sven Bergström's multiplayer game development on the web guide.
 - [Replication in Networked Games](https://0fps.net/2014/02/10/replication-in-networked-games-overview-part-1/) - Mikola Lysenko's replication articles for JavaScript-based multiplayer.
@@ -59,7 +58,9 @@
 - [Unreal Engine 4 Framework & Network](https://web.archive.org/web/20230324101942/http://www.nafonso.com/home/unreal-framework-network) - A look into Unreal game networking framework by Nuno Afonso.
 - [Unreal Engine Multiplayer Network Compendium](https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/) - Introduction to Unreal multiplayer by Cedric Neukirchen.
 - [Unreal Engine Networked Physics](https://dev.epicgames.com/community/learning/tutorials/5E4w/unreal-engine-networked-physics-fundamentals) - Tutorial series on networked physics in Unreal Engine by Epic Games.
-- [Valorant's 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers) - Server runtime optimization techniques in-depth by Brent Randall.
+- [Valorant / 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers) - Server runtime optimization techniques in-depth by Brent Randall.
+- [Valorant / Peeking into Netcode](https://technology.riotgames.com/news/peeking-valorants-netcode) - Netcode overview and peeker's advantage by Matt deWet and David Straily.
+- [Valorant / The State of Hit Registration](https://playvalorant.com/en-us/news/dev/the-state-of-hit-registration/) - Trade-offs in hit registration and server rewind by Kevin Lee.
 - [What Makes Apex Tick: A Developer Deep Dive Into Servers and Netcode](https://www.ea.com/en-au/games/apex-legends/news/servers-netcode-developer-deep-dive) - by Samy Duc.
 - RU [Как мы писали сетевой код мобильного PvP шутера](https://habr.com/ru/company/pixonic/blog/415959/) - Pixonic о клиенте в быстром шутере.
 
