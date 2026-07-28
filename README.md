@@ -103,6 +103,7 @@
   - [LA 2018 / Deep-Dive Into Networking for Unity's FPS Sample](https://www.youtube.com/watch?v=k6JTaFE7SYI) - Talk by Peter Andreasen from Unity.
   - [EU 2019 / Intro to DOTS and Netcode](https://www.youtube.com/watch?v=P_-FoJuaYOI) - Networked future of Unity using DOTS by Tim Johansson.
 - Other
+  - [Animation Networking](https://www.youtube.com/watch?v=mKBDhC6-t4s) - Replicating animations via graph parameters or pose tasks by Bobby Anguelov.
   - [Between Two Servers](https://www.youtube.com/playlist?list=PLzVi6Kh_HMIWKS1aXOV4XobuymoF0P-_S) - Glenn Fiedler interviews gamedevs about multiplayer and netcode.
   - [Engineering Fast Paced Multiplayer Games with Gabriel Gambetta](https://www.youtube.com/watch?v=HHdUUP3Z3HA) - 1 hour interview podcast.
   - [Rollback Netcode in Godot](https://www.youtube.com/playlist?list=PLCBLMvLIundBXwTa6gwlOUNc29_9btoir) - A tutorial series about implementing rollback netcode in Godot.
