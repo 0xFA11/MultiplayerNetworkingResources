@@ -93,6 +93,7 @@
   - [Bali 2025 / Best Practices for Networked Movement Abilities](https://www.youtube.com/watch?v=tSVcRbfK8X8) - Talk by Zhi Kang Shao.
   - [Bali 2025 / Network Prediction: Replication's Crystal Ball](https://www.youtube.com/watch?v=S0r005tEmSA) - Talk by Andrew Joy.
   - [Orlando 2025 / Developing and Launching a New Replication System](https://www.youtube.com/watch?v=K472O2rVvG0) - Talk by Peter Engstrom.
+  - [Stockholm 2025 / A Dive Into Networked Physics-Based Character Movement](https://www.youtube.com/watch?v=_jRLlTDqoGI) - Talk by Tom Waterson and Markus Boberg.
 - Unity Unite
   - [EU 2016 / Building a PvP focused MMO](https://www.youtube.com/watch?v=x_4Y2-B-THo) - Albion MMO architecture by David Salz from Sandbox.
   - [EU 2017 / Photon vs UNet](https://www.youtube.com/watch?v=Y1my5bKhKJY) - Netcode architecture comparison by Christof Wegmann from Exit Games.
