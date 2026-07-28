@@ -57,6 +57,7 @@
 - [Unreal Engine 3 Networking & Replication](https://api.unrealengine.com/udk/Three/ReplicationHome.html) - Historical UE3 game networking from the old wiki.
 - [Unreal Engine 4 Framework & Network](https://web.archive.org/web/20230324101942/http://www.nafonso.com/home/unreal-framework-network) - A look into Unreal game networking framework by Nuno Afonso.
 - [Unreal Engine Multiplayer Network Compendium](https://cedric-neukirchen.net/docs/category/multiplayer-network-compendium/) - Introduction to Unreal multiplayer by Cedric Neukirchen.
+- [Unreal Engine Networked Physics](https://dev.epicgames.com/community/learning/tutorials/5E4w/unreal-engine-networked-physics-fundamentals) - Tutorial series on networked physics (fundamentals, pawn, gameplay etc.) by Epic Games.
 - [Valorant's 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers) - Server runtime optimization techniques in-depth by Brent Randall.
 - [What Makes Apex Tick: A Developer Deep Dive Into Servers and Netcode](https://www.ea.com/en-au/games/apex-legends/news/servers-netcode-developer-deep-dive) - by Samy Duc.
 - RU [Как мы писали сетевой код мобильного PvP шутера](https://habr.com/ru/company/pixonic/blog/415959/) - Pixonic о клиенте в быстром шутере.
