@@ -45,6 +45,7 @@
 - [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - Valve's Source engine wiki including advanced game networking topics.
 - [Sync Host Overview](https://www.gamedevs.org/uploads/introduction-to-sync-host.pdf) - A slide deck covering Sync Host architecture by Peter Kao from Insomniac Games.
 - [Tech-Stack of the Ultima Online Servers](https://www.quora.com/What-was-the-technology-stack-driving-the-original-Ultima-Online-servers) - A summary of UO tech-stack by Raph Koster and Brian Crowder.
+- [Teardown Multiplayer](https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html) - Semi-deterministic netcode for destructible voxel physics by Dennis Gustafsson.
 - [The Case of the Quake Cheats](http://www.catb.org/esr/writings/quake-cheats.html) - Security lessons from client-server model from Quake 1 by id Software.
 - [The DOOM III Network Architecture](http://mrelusive.com/publications/papers/The-DOOM-III-Network-Architecture.pdf) - Improvements on network architectures used in Quake III Arena.
 - [The Poor Man's Netcode](http://etodd.io/2018/02/20/poor-mans-netcode/) - Project code and detailed blog post about networking challenges by Evan Todd.
