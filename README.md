@@ -6,7 +6,7 @@
 
 - [1500 Archers on a 28.8: Network Programming in Age of Empires and Beyond](https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond) - Mark Terrano, Paul Bettner.
 - [Alvaro Jover-Alvarez's Blog](https://vorixo.github.io/devtricks/) - Various articles on Unreal Engine 5 multiplayer by Alvaro Jover-Alvarez.
-- [Arma's Server Authoritative Vehicles](https://reforger.armaplatform.com/news/server-authoritative-vehicles) - Vehicle prediction, input replay and reconciliation by Bohemia Interactive.
+- [Arma's Server Authoritative Vehicles](https://reforger.armaplatform.com/news/server-authoritative-vehicles) - Deterministic vehicle physics, prediction, input replay and reconciliation.
 - [Choosing TCP or UDP: a guide for game developers](https://web.archive.org/web/20210415231950/https://heroiclabs.com/docs/expert-tcp-udp/) - Basic TCP vs UDP comparison by Heroic Labs.
 - [Close Look: Halo Infinite's Online Experience](https://www.halowaypoint.com/news/closer-look-halo-infinite-online-experience) - Discussing netcode issues and mitigations by Richard Watson.
 - [Delta Rollback: New optimizations for Rollback Netcode](https://medium.com/@david.dehaene/delta-rollback-new-optimizations-for-rollback-netcode-7d283d56e54b) - New ideas and optimizations by David Dehaene.
