@@ -62,6 +62,7 @@
 - [Valorant / 128-Tick Servers](https://technology.riotgames.com/news/valorants-128-tick-servers) - Server runtime optimization techniques in-depth by Brent Randall.
 - [Valorant / Peeking into Netcode](https://technology.riotgames.com/news/peeking-valorants-netcode) - Netcode overview and peeker's advantage by Matt deWet and David Straily.
 - [Valorant / The State of Hit Registration](https://playvalorant.com/en-us/news/dev/the-state-of-hit-registration/) - Trade-offs in hit registration and server rewind by Kevin Lee.
+- [What is Rollback Netcode?](https://bymuno.com/post/rollback) - An illustrated explanation of rollback netcode in fighting games by Muno.
 - [What Makes Apex Tick: A Developer Deep Dive Into Servers and Netcode](https://www.ea.com/en-au/games/apex-legends/news/servers-netcode-developer-deep-dive) - by Samy Duc.
 - RU [Как мы писали сетевой код мобильного PvP шутера](https://habr.com/ru/company/pixonic/blog/415959/) - Pixonic о клиенте в быстром шутере.
 
