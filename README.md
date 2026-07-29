@@ -110,6 +110,7 @@
   - [Engineering Fast Paced Multiplayer Games with Gabriel Gambetta](https://www.youtube.com/watch?v=HHdUUP3Z3HA) - 1 hour interview podcast.
   - [Rollback Netcode in Godot](https://www.youtube.com/playlist?list=PLCBLMvLIundBXwTa6gwlOUNc29_9btoir) - A tutorial series about implementing rollback netcode in Godot.
   - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) - Chat about Guild Wars, Diablo, StarCraft netcode by Pat Wyatt.
+  - [How Server Authority works on Roblox](https://www.youtube.com/watch?v=hb14MxhZiOU) - Server-authoritative movement, prediction and smoothing by Roblox.
   - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - Overwatch netcode by Tim Ford and Philip Orwig from Blizzard.
   - [Tick Rate, Servers, and More](https://www.youtube.com/watch?v=m08Uriv-RgU) - Samy Duc on netcode and choosing models to serve game design.
   - [Unity + Mirror Networking Tutorials](https://www.youtube.com/playlist?list=PLXEG2omgKgCapAmGe20XBgd87rmxFdKhK) - Conceptual and hands-on implementation by Neil Shah.
