@@ -22,6 +22,7 @@
 - [Game Networking Demystified](https://ruoyusun.com/2019/03/28/game-networking-1.html) - Basic game networking terminology and concepts by Ruoyu Sun.
 - [Game Server Architecture](https://web.archive.org/web/20210419133753/https://gameserverarchitecture.com/) - Matthew Walker's multiplayer game server architecture blog.
 - [High Performance Browser Networking](https://hpbn.co/) - A free online book about modern web protocols by Ilya Grigorik.
+- [How a browser football game runs its netcode without a game server](https://dev.to/ege_evirgen_8bc82bf834c84/how-a-browser-football-game-runs-its-netcode-without-a-game-server-6gn) - Host-authoritative peer-to-peer netcode over WebRTC data channels, with the host's browser running the simulation for up to 24 players, by Ege Evirgen.
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
 - [How 2XKO Handles Online Play](https://2xko.riotgames.com/en-us/news/dev/how-2xko-handles-online-play/) - In-depth explanation of the Riot made fighting game 2XKO's netcode, particularly why they chose to go for a client-server model over peer-to-peer.
 - [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) - A paper.
