@@ -169,6 +169,7 @@
 - JavaScript
   - [Actionhero](https://actionherojs.com) - A node.js API server framework for TCP sockets, websockets and HTTP clients.
   - [Colyseus](https://github.com/colyseus/colyseus) - Authoritative multiplayer game server backend framework.
+  - [HopLobby](https://developers.hoplobby.com) - Lobbies, invite links, a real-time relay and avatars for multiplayer browser games (Cloud/SaaS).
   - [Kalm](https://github.com/kalm/kalm.js) - Socket manager/optimizer library with custom congestion control for Node.js and browsers.
   - [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable multi-process HTTP & real-time server framework.
 - Rust
