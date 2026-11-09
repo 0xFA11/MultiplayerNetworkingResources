@@ -183,6 +183,7 @@
 - [mitmproxy](https://mitmproxy.org/) - Web debugging proxy server. (Windows, macOS, Linux)
 - [Network Link Conditioner](https://nshipster.com/network-link-conditioner/) - Network environment simulation utility. (macOS, iOS)
 - [Network Simulator (ns)](https://www.nsnam.org) - Network simulator targeting research and educational use. (macOS, Linux)
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and toolbox for inspecting and debugging JSON API payloads. (Web)
 - [Postman](https://www.postman.com/) - Web API debugging and development client. (Windows, macOS, Linux)
 - [Schema](https://github.com/mas-bandwidth/schema) - Bit-packed schema language compiled to C, C++, C#, Go, Rust and JavaScript.
 - [websocat](https://github.com/vi/websocat) - CLI client for WebSockets like netcat or curl. (Windows, macOS, Linux)
