@@ -127,10 +127,11 @@
   - [KCP](https://github.com/skywind3000/kcp) - A fast and reliable ARQ protocol.
   - [netcode](https://github.com/mas-bandwidth/netcode) - Secure connection-based client/server protocol built on top of UDP (C, C#, Rust, Go etc...)
   - [Network Next](https://github.com/networknext/next) - Network accelerator for multiplayer games.
-  - [Proton](https://github.com/mas-bandwidth/proton) - Linux kernel module that provides cryptographic functions for XDP programs.
+  - [proton](https://github.com/mas-bandwidth/proton) - Linux kernel module that provides cryptographic functions for XDP programs.
   - [RakNet](https://github.com/facebookarchive/RakNet) - (Inactive) Full-featured and mature reliable UDP networking engine.
-  - [Reliable](https://github.com/mas-bandwidth/reliable) - A packet acknowledgement system for UDP (C).
-  - [Serialize](https://github.com/mas-bandwidth/serialize) - A simple bitpacking serializer for C++.
+  - [reliable](https://github.com/mas-bandwidth/reliable) - A packet acknowledgement system for UDP (C).
+  - [rocketnet](https://github.com/mas-bandwidth/rocketnet) - Client/server UDP transport and message library for games with thousands of players.
+  - [serialize](https://github.com/mas-bandwidth/serialize) - A simple bit-packing serializer for C++.
   - [Snapnet](https://www.snapnet.dev) - AAA netcode for real-time multiplayer games.
   - [TNL2](https://github.com/nardo/tnl2) - (Inactive) Torque Networking Library 2 which is quite similar to [TRIBES Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf).
   - [yojimbo](https://github.com/mas-bandwidth/yojimbo) - Reliable UDP networking library for client/server games with dedicated servers (C++).
@@ -187,6 +188,10 @@
 - [Schema](https://github.com/mas-bandwidth/schema) - Bit-packed schema language compiled to C, C++, C#, Go, Rust and JavaScript.
 - [websocat](https://github.com/vi/websocat) - CLI client for WebSockets like netcat or curl. (Windows, macOS, Linux)
 - [Wireshark](https://www.wireshark.org/) - Network traffic analyzer tool. (Windows, macOS, Linux)
+
+## Languages
+
+- [schema](https://github.com/mas-bandwidth/schema) - A schema compiler that generates fast bit-packed serialization code for C, C++, C#, Go, Rust, Java, JavaScript, Dart, Elixir, Lua, Luau and more.
 
 ## License
 
